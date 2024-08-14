@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BluelogicSistemas" title="#BluelogicSistemas" src="https://res.cloudinary.com/das1rnjvi/image/upload/c_fill,h_667,w_1640/v1662509576/bluelogic/capa_face_ekdzsk.png" />
+    <img alt="BluelogicSistemas" title="#BluelogicSistemas" src="https://usc1.contabostorage.com/9ece9f03187346ec859203c6fda724ab:bluelogic/git/capa_face.png" />
 </h1>
   
 
